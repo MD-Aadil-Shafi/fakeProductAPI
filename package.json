@@ -1,7 +1,7 @@
 {
   "name": "fakeproducts",
   "version": "1.0.0",
-  "description": "filler products",
+  "description": "REST API for Filler Products",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
