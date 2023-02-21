@@ -35,7 +35,7 @@ exports.data=[
         'price': 900,
         'inStock': true,
         'picture': blackshoes,
-        'size': [6,7,8]
+        'size': ['6','7','8']
     },
     {
         'id':2,
@@ -47,7 +47,7 @@ exports.data=[
         'price': 700,
         'inStock': true,
         'picture': blueShoes,
-        'size': [6,7]
+        'size': ['6','7']
     },
     {
         'id':3,
@@ -59,7 +59,7 @@ exports.data=[
         'price': 1500,
         'inStock': true,
         'picture': brownShoes,
-        'size': [8]
+        'size': ['8']
     },
     {
         'id':4,
@@ -71,7 +71,7 @@ exports.data=[
         'price': 400,
         'inStock': false,
         'picture': whiteShoes,
-        'size': [6,7,8]
+        'size': ['6','7','8']
     },
     {
         'id':5,
@@ -83,7 +83,7 @@ exports.data=[
         'price': 1400,
         'inStock': true,
         'picture': whiteShoes2,
-        'size': [6,7]
+        'size': ['6','7']
     },
     {
         'id':6,
