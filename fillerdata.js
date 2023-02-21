@@ -191,6 +191,7 @@ exports.data=[
         'price': 500,
         'inStock': true,
         'picture': blackWatch1,
+        'size': ['G'],
         
     },
     {
@@ -203,6 +204,7 @@ exports.data=[
         'price': 500,
         'inStock': true,
         'picture': blackWatch2,
+        'size': ['G'],
         
     },
     {
@@ -215,6 +217,7 @@ exports.data=[
         'price': 550,
         'inStock': true,
         'picture': brownWatch1,
+        'size': ['G'],
         
     },
     {
@@ -227,6 +230,7 @@ exports.data=[
         'price': 550,
         'inStock': false,
         'picture': brownWatch2,
+        'size': ['G'],
         
     },
     {
@@ -239,6 +243,7 @@ exports.data=[
         'price': 650,
         'inStock': true,
         'picture': brownWatch3,
+        'size': ['G'],
         
     },
     {
